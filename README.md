@@ -6,9 +6,13 @@ When I think of home, I envision my backyard, where I spent a significant part o
 
 ### Artwork Sources
 -[Soccer Ball](https://www.turbosquid.com/3d-models/3d-model-football-ball-2147133)
+
 -[Grass](https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-grass-texture-78552)
+
 -[Brick](https://assetstore.unity.com/packages/2d/textures-materials/brick/old-urban-brick-texture-59256)
+
 -[Wooden Fence](https://assetstore.unity.com/packages/2d/textures-materials/wood/mc-old-wod-free-sample-178802)
 
 ### Link to The Gameplay
+![Gameplay](Gameplay.png)
 [What Home Means to You](https://youtu.be/9akZ1NfGgbc)
